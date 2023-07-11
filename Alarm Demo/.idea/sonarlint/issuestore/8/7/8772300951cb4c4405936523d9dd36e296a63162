@@ -1,0 +1,24 @@
+
+V	java:S125U"<This block of commented-out lines of code should be removed.(ÅÔß–ùÿÿÿÿ
+q
+java:S1450"[Remove the "stopAlarmBtn" field and declare it as a local variable in the relevant methods.(ş¨óƒ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(Å‘§‹
+]	java:S125z"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿ8ÑÀÆ®ù.
+w
+java:S1450"\Remove the "startAlarmBtn" field and declare it as a local variable in the relevant methods.(ÄšÙ¿ùÿÿÿÿ
+>
+java:S1604)"(Make this anonymous inner class a lambda(êğúÌ
+C
+java:S16040"(Make this anonymous inner class a lambda(ÿƒôˆÿÿÿÿÿ
+P	java:S125>"<This block of commented-out lines of code should be removed.(üÖ„
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8á¬–„Ù/
+o	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ï¹÷şÿÿÿÿ8ùÖ›®ù.
+N
+java:S1144J"1Remove this unused private "timeInMillis" method.(ÆõŸ¡8²®ù.
+]
+java:S2259]"BA "NullPointerException" could be thrown; "date" is nullable here.(¦‘¿Íüÿÿÿÿ
+X	java:S125q"<This block of commented-out lines of code should be removed.(È¿§¬8’üœ®ù.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¢ĞÆ™Ù/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8£ĞÆ™Ù/

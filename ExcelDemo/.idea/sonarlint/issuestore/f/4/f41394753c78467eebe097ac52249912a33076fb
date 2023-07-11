@@ -1,0 +1,16 @@
+
+c
+java:S3252@"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(ÞÿÞµ
+h
+java:S3252<"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(µïÚüÿÿÿÿÿ
+B
+java:S1874@",Remove this use of "DATA"; it is deprecated.(ÞÿÞµ
+^
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(¥­º­ÿÿÿÿÿ
+7	java:S131)""Add a default case to this switch.(ÜŸ•
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‡ÛŸÚýÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–Õ˜Ãýÿÿÿÿ
+G
+java:S1874<",Remove this use of "DATA"; it is deprecated.(µïÚüÿÿÿÿÿ
